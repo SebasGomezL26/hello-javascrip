@@ -14,11 +14,11 @@ console.log(saludoJS)
 
 //let
 
-let helloWorld2 ="¡Hola, JavaScrip 2!"
-console.log(helloWorld2)
+let Opcion2 ="¡Hola, JavaScrip 2!"
+console.log(Opcion2)
 
-helloWorld2 = "¡Hola de nuevo, JavaScrip 2!"
-console.log(helloWorld2)
+Opcion2 = "¡Hola de nuevo, JavaScrip 2!"
+console.log(Opcion2)
 
 // const
 
