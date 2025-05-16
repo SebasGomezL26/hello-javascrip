@@ -3,6 +3,7 @@
 // Cadenas de texto (String) 
 let name = " Sebastian Gomez "
 let alias = 'Gomez' 
+let alias = 'Tatan' 
 let email = 'xsebastianzg@gmail.com'
 
 // Numeros (number)
